@@ -1,4 +1,4 @@
 # Projet git
- ceci est une demonstration de l'utilisation de git 
+ Premiere essay du la partie branche avec git
 
  ceci est un deuxieme message
